@@ -27,7 +27,10 @@ This project is aimed at developing a desktop based application named Amir Stati
 * LOGIN INTERFACE
 <img width="952" alt="Screenshot (97)" src="https://user-images.githubusercontent.com/116053642/196612956-8ca0011d-37b9-4f5b-90a5-9d3cbfb9f5c1.png">
 ADMIN MAIN INTERFACE
-![Screenshot (98)](https://user-images.githubusercontent.com/116053642/196613658-c8d182b4-2108-4920-97ca-70e853e21e97.png)
+
+![Screenshot (98)](https://user-images.githubusercontent.com/116053642/196616729-f8b49eaa-45f8-474f-8da9-a22bdadcb911.png)
+
+
 EMPLOYEE PORTAL
 ![Screenshot (100)](https://user-images.githubusercontent.com/116053642/196613804-17c2a449-9078-4e6b-92ba-0e352d4f222d.png)
 SUPPLIER PORTAL
@@ -38,9 +41,9 @@ PRODUCTS PORTAL
 ![Screenshot (103)](https://user-images.githubusercontent.com/116053642/196614004-8810c79a-592c-4f0e-b0fc-3b9863eee62c.png)
 SALES PORTAL
 ![Screenshot (104)](https://user-images.githubusercontent.com/116053642/196614047-9efc3a2a-600f-400d-a6dd-7856cadda141.png)
-EMPLOYEE PORTAL MAIN DASHBOARD
+ADMIN CAN SEE SALES
 ![Screenshot (105)](https://user-images.githubusercontent.com/116053642/196614092-1c1807ed-d352-472d-b813-9c939c4bc66b.png)
-
+EMPLOYEE PORTAL MAIN DASHBOARD
 ![Screenshot (115)](https://user-images.githubusercontent.com/116053642/196614183-8ae7f1be-784e-463b-89d9-0a97af781043.png)
 
 <!---
